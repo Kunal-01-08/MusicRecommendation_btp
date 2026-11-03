@@ -1,0 +1,7 @@
+mel_bins: 64
+sample_rate: 32000
+clip_seconds: 30
+panns_model: Cnn14
+embedding_dim: 2048
+projection_dim: 256
+batch_size: 32

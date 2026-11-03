@@ -1,0 +1,6 @@
+dataset: music4all
+paths: {raw: data/raw/music4all, interim: data/interim, processed: data/processed}
+clip_seconds: 30
+sample_rate: 32000
+cold_start_fraction: 0.15
+seed: 42

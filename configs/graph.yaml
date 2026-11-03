@@ -1,0 +1,4 @@
+knn_k: 20
+include_raag: false
+node_types: [track, artist, genre, tag, user, raag]
+edge_types: [user_track, track_artist, track_genre, track_tag, track_raag, audio_knn]

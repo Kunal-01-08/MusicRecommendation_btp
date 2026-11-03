@@ -1,0 +1,4 @@
+fusion: gated  # concat | gated
+audio_dim: 256
+graph_dim: 256
+output_dim: 256
